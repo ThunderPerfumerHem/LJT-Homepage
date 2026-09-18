@@ -10,4 +10,4 @@ citation: 'Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He. (2023). &quot;Com
 
 **Authors:** Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He
 
-Published at NeurIPS 2023.
+Published at NeurIPS 2023 (Neural Information Processing Systems).

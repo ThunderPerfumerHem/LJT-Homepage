@@ -10,4 +10,4 @@ citation: 'Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang 
 
 **Authors:** Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He
 
-Published at ICML 2024.
+Published at ICML 2024 (International Conference on Machine Learning).

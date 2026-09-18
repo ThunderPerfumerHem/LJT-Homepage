@@ -10,4 +10,4 @@ citation: 'Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He. (2024). &quot;On the U
 
 **Authors:** Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He
 
-Published at EMNLP 2024. Code is available on GitHub (repository: Universal_Truthfulness_Hyperplane).
+Published at EMNLP 2024 (Conference on Empirical Methods in Natural Language Processing). Code is available on GitHub (repository: Universal_Truthfulness_Hyperplane).
