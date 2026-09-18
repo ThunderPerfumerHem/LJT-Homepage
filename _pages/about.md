@@ -30,6 +30,7 @@ My research focuses on natural language processing and machine learning.
 - **Ph.D. in Computer Science**, Hong Kong University of Science and Technology (HKUST), 2024 - Present
   - Supervisor: Prof. Junxian He
 - **B.Eng.**, Shanghai Jiao Tong University (SJTU), 2020 - 2024
+  - Advisor during undergraduate studies: Prof. Junxian He
 
 ## Research Experience
 
