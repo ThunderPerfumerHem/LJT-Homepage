@@ -32,7 +32,7 @@
   },
   "work": [
     {
-      "name": "MINIMAX",
+      "company": "MINIMAX",
       "position": "Research Intern",
       "startDate": "2025-02",
       "endDate": "",
@@ -40,7 +40,7 @@
       "highlights": []
     },
     {
-      "name": "Tencent WXG",
+      "company": "Tencent WXG",
       "position": "Research Intern",
       "startDate": "2024-06",
       "endDate": "2024-09",
@@ -48,7 +48,7 @@
       "highlights": []
     },
     {
-      "name": "Shanghai AI Lab",
+      "company": "Shanghai AI Lab",
       "position": "Research Intern",
       "startDate": "2023-06",
       "endDate": "2023-12",
@@ -62,7 +62,7 @@
       "area": "Ph.D. in Computer Science",
       "studyType": "Ph.D.",
       "startDate": "2024",
-      "endDate": "",
+      "endDate": "Present",
       "gpa": null,
       "courses": []
     },
